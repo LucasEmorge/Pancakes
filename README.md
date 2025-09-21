@@ -26,3 +26,17 @@ Baixe o instalador disponível neste repositório e execute o arquivo .exe para 
 ou
 
 Extraia o arquivo Pancakes.zip e execute o jogo diretamente.
+
+# Imagens do jogo
+
+Tela inicial
+
+![Menu](https://github.com/LucasEmorge/Pancakes/blob/main/Menu.png)
+
+Fase 1
+
+![Fase 1](https://github.com/LucasEmorge/Pancakes/blob/main/Fase-1.png)
+
+Fase Final
+
+![Fase Final](https://github.com/LucasEmorge/Pancakes/blob/main/Fase-Final.png)
